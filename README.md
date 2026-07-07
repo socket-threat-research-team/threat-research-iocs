@@ -1,2 +1,2 @@
-# threat-research-iocs
-Public IOCs and infrastructure appendices from Socket Threat Research reports
+# Socket Threat Research IOCs
+This repository contains public indicators of compromise (IOCs) and infrastructure appendices published by the Socket Threat Research Team. Each directory corresponds to a specific public research report and may include malware hashes, network indicators, package or repository indicators, and related infrastructure lists intended to support defender detection, enrichment, and threat hunting.

@@ -1,6 +1,6 @@
 # Operation Muck and Load
 # GitHub Infrastructure Indicators
-# Report: [Socket Threat Research blog URL]
+# Report: https://socket.dev/blog/malicious-go-module-exposes-github-malware-lure-network
 #
 # This file lists GitHub accounts and repositories associated with Operation Muck and Load.
 # Confirmed accounts are GitHub owners with at least one confirmed direct threat actor-workflow repository.

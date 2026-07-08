@@ -2,7 +2,7 @@
 
 This directory contains public indicators and infrastructure appendices associated with Socket Threat Research’s Operation Muck and Load report.
 
-Report: [Socket blog URL]
+Report: https://socket.dev/blog/malicious-go-module-exposes-github-malware-lure-network
 
 ## Files
 
